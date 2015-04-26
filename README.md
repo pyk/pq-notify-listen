@@ -1,1 +1,1 @@
-complete example available at [godoc.org/github.com/lib/pq/listen_example](godoc.org/github.com/lib/pq/listen_example).
+complete example available at [godoc.org/github.com/lib/pq/listen_example](http://godoc.org/github.com/lib/pq/listen_example).
